@@ -1,4 +1,4 @@
-package chapter06.model
+package model2
 
 import slick.driver.H2Driver.api._
 

@@ -1,4 +1,4 @@
-package chapter06.model.vo
+package model2.vo
 
 final case class User(
                      name: String,

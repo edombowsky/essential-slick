@@ -1,6 +1,6 @@
-package chapter06.model.po
+package model2.po
 
-import chapter06.model.vo._
+import model2.vo._
 import slick.driver.H2Driver.api._
 
 final class MessageTable(tag: Tag) extends Table[Message](tag, "MESSAGE") {

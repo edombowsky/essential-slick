@@ -1,7 +1,7 @@
 package chapter06
 
-import model.po._
-import model.vo._
+import model2.po._
+import model2.vo._
 import slick.driver.H2Driver.api._
 
 import scala.concurrent.Await
